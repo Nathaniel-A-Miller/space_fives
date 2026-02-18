@@ -245,7 +245,7 @@ def lighthouse_inside():
             st.rerun()
 
 def loss_3():
-    st.write("""
+    st.write("""f
         Captain Grox cackled and pressed a trapdoor button. {char} and all three robots 
         tumbled down a chute and landed in a heap on the cliffs outside.
 
